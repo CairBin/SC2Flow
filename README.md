@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/cairbin/SC2Flow/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/cairbin/SC2Flow.svg" alt="License">
+    <img src="https://img.shields.io/github/license/cairbin/SC2Flow" alt="License">
   </a>
   <a href="https://github.com/cairbin/SC2Flow/stargazers">
     <img src="https://img.shields.io/github/stars/cairbin/SC2Flow.svg" alt="Stars">
