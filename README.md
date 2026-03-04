@@ -4,7 +4,6 @@
   <img src="assets/logo.jpg" alt="SC2 Flow Logo" width="200">
 </p>
 
-## 项目信息
 
 <p align="center">
   <a href="https://github.com/cairbin/SC2Flow/blob/main/LICENSE">
